@@ -1,0 +1,6 @@
+digit=range(1,10)
+print(min(digit))
+print(max(digit))
+print(sum(digit))
+
+print(digit)

@@ -1,0 +1,4 @@
+myfoods=['pizza','falfel','carrot cake']
+friend_foods=myfoods[:-1]
+print(myfoods)
+print(friend_foods)

@@ -1,0 +1,2 @@
+player=['charles','martina','machel','florence','eli']
+print(player[-3:])
